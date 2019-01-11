@@ -142,7 +142,7 @@
 			attributes = {
 				LastSwiftUpdateCheck = 1010;
 				LastUpgradeCheck = 1010;
-				ORGANIZATIONNAME = "Hyunsu Mun";
+				ORGANIZATIONNAME = "";
 				TargetAttributes = {
 					9521A24F21E8125A00C628D5 = {
 						CreatedOnToolsVersion = 10.1;
