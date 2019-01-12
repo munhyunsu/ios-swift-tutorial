@@ -51,6 +51,10 @@
                         </constraints>
                         <viewLayoutGuide key="safeArea" id="6Tk-OE-BBY"/>
                     </view>
+                    <connections>
+                        <outlet property="mealNameLabel" destination="bRU-5b-qQq" id="HjI-Oc-yYS"/>
+                        <outlet property="nameTextField" destination="cB8-VE-rjP" id="qh6-sO-6pM"/>
+                    </connections>
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="dkx-z0-nzr" sceneMemberID="firstResponder"/>
             </objects>
